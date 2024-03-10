@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Akash
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+
 -
